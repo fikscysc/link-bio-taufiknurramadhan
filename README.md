@@ -26,4 +26,13 @@ Bio Link sederhana dengan tema komputer, dibuat menggunakan HTML, CSS, dan JavaS
 
 ---
 
+## Kontak
+
+- [Instagram](https://www.instagram.com/taufiknetwork_/)
+- [Tiktok](https://www.tiktok.com/@taufiknurrmdhn24)
+- [Github](https://github.com/fikscysc)
+
+
+---
+
 Copyright © FiksCySc
